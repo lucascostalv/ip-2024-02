@@ -1,0 +1,3 @@
+
+			qtdIngressosMax = qtdIngressos
+			melhorValor = valor

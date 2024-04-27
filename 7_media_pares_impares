@@ -1,0 +1,22 @@
+
+eu preciso ler uma sequencia de numeros inteiros 
+
+for{
+}
+
+eu preciso ler uma sequencia de numeros inteiros e parar quando o numero for 0 : while(numero != 0)
+
+
+eu preciso ler uma sequencia de numeros inteiros e parar quando o numero for 0 e imprimir a soma dos numeros
+
+eu preciso ver se o numero é par ou impar
+
+se o numero for par eu somo ele na variavel soma
+
+faço um contador para saber quantos numeros eu li
+
+caso ele seja impar eu somo ele na variavel soma
+
+faço um contador para saber quantos numeros eu li
+
+preciso verificar a media dos numeros pares e impares, eu uso a variavel soma e o contador dos numeros pares e impares
